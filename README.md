@@ -56,7 +56,7 @@ SeSAC_Crawling_Study/
 |05|js file|[web_control.js](./skeleton/web_control.js)|js 기본 문법 정리||
 
 <details open>
-<summary> async_transfer </summary
+<summary> async_transfer </summary>
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
 |01|async|[bit_complex_crawling.py](./skeleton/async_transfer/bit_complex_crawling.py)|네이버 뉴스 기자 리스트 웹크롤링 실습 비동기 전||
@@ -65,7 +65,7 @@ SeSAC_Crawling_Study/
 </details>
 
 <details open>
-<summary> playwright </summary
+<summary> playwright </summary>
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
 |01|playwright|[playwright_tutorial.py](./skeleton/playwright/playwright_tutorial.py)|playwright 학습||
@@ -73,7 +73,7 @@ SeSAC_Crawling_Study/
 </details>
 
 <details open>
-<summary> korail_quest </summary
+<summary> korail_quest </summary>
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
 |01|실습|[korail_reservation.py](./skeleton/korail_quest/korail_reservation.py)|korail 기차표 예매 실습||
